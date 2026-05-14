@@ -1,5 +1,5 @@
 
-# Practice
+# Github Fundamentals
 
 ## Something I learned
 Something I learned from the lectures in this class so far is that in the early 1990s, the web was a library. Basically:
