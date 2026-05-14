@@ -2,7 +2,10 @@
 # Practice
 
 ## Something I learned
-Something I learned from the lectures in this class so far is that in the early 1990s, the web was a library. Basically, every URL was an HTML file on a server, you request the page and the server sends it. 
+Something I learned from the lectures in this class so far is that in the early 1990s, the web was a library. Basically:
+- All the URLs on the web existed as one single HTML file on a server.
+- To see the page, you request the server.
+- And finally, the server sends it. 
 
 
 ## The code I tested
